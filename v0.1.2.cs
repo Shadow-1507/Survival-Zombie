@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Survival Zom
+namespace Survival_Zom
 {
-    internal class v0.1.2.cs
+    internal class Program
     {
         static void Main(string[] args)
         {
@@ -61,11 +61,6 @@ namespace Survival Zom
                     {
                         hp = 0;
                         Console.WriteLine("You Die");
-                    }
-                    else if (hp >= 100)
-                    {
-                        hp = 100;
-                        state = "Khỏe mạnh";
                     }
                     else if (hp >= 70)
                     {
