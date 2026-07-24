@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Survival_Zom
+namespace Survival_Zo
 {
     internal class Program
     {
